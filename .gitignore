@@ -1,0 +1,33 @@
+# Node
+node_modules/
+npm-debug.log*
+package-lock.json
+.env
+
+# Database
+server/campus.db
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Build / distribution
+dist/
+build/
+
+# Misc
+.sass-cache/
+coverage/
+screenshots/*.db
