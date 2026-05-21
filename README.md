@@ -104,10 +104,3 @@ Fork → branch (`feature/your-feature`) → PR. Follow the existing code style 
 MIT — see the `LICENSE` file.
 
 ---
-
-If you want, I can now:
-
-- commit this change and create a GitHub repo and push it (I can run the git commands if you confirm), or
-- make the README shorter/longer or add badges and screenshots.
-
-Tell me what you prefer.
